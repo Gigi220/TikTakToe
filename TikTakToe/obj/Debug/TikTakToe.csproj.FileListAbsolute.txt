@@ -1,0 +1,30 @@
+D:\Vlad\TikTakToe\TikTakToe\bin\Debug\TikTakToe.exe.config
+D:\Vlad\TikTakToe\TikTakToe\bin\Debug\TikTakToe.exe
+D:\Vlad\TikTakToe\TikTakToe\bin\Debug\TikTakToe.pdb
+D:\Vlad\TikTakToe\TikTakToe\obj\Debug\TikTakToe.csprojResolveAssemblyReference.cache
+D:\Vlad\TikTakToe\TikTakToe\obj\Debug\MainWindow.g.cs
+D:\Vlad\TikTakToe\TikTakToe\obj\Debug\App.g.cs
+D:\Vlad\TikTakToe\TikTakToe\obj\Debug\TikTakToe_MarkupCompile.cache
+D:\Vlad\TikTakToe\TikTakToe\obj\Debug\TikTakToe_MarkupCompile.lref
+D:\Vlad\TikTakToe\TikTakToe\obj\Debug\MainWindow.baml
+D:\Vlad\TikTakToe\TikTakToe\obj\Debug\TikTakToe.g.resources
+D:\Vlad\TikTakToe\TikTakToe\obj\Debug\TikTakToe.Properties.Resources.resources
+D:\Vlad\TikTakToe\TikTakToe\obj\Debug\TikTakToe.csproj.GenerateResource.Cache
+D:\Vlad\TikTakToe\TikTakToe\obj\Debug\TikTakToe.csproj.CoreCompileInputs.cache
+D:\Vlad\TikTakToe\TikTakToe\obj\Debug\TikTakToe.exe
+D:\Vlad\TikTakToe\TikTakToe\obj\Debug\TikTakToe.pdb
+C:\Users\Vlad\Desktop\Шаг\Мережеве програмування\TikTakToe\TikTakToe\bin\Debug\TikTakToe.exe.config
+C:\Users\Vlad\Desktop\Шаг\Мережеве програмування\TikTakToe\TikTakToe\bin\Debug\TikTakToe.exe
+C:\Users\Vlad\Desktop\Шаг\Мережеве програмування\TikTakToe\TikTakToe\bin\Debug\TikTakToe.pdb
+C:\Users\Vlad\Desktop\Шаг\Мережеве програмування\TikTakToe\TikTakToe\obj\Debug\TikTakToe.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Desktop\Шаг\Мережеве програмування\TikTakToe\TikTakToe\obj\Debug\MainWindow.g.cs
+C:\Users\Vlad\Desktop\Шаг\Мережеве програмування\TikTakToe\TikTakToe\obj\Debug\App.g.cs
+C:\Users\Vlad\Desktop\Шаг\Мережеве програмування\TikTakToe\TikTakToe\obj\Debug\TikTakToe_MarkupCompile.cache
+C:\Users\Vlad\Desktop\Шаг\Мережеве програмування\TikTakToe\TikTakToe\obj\Debug\TikTakToe_MarkupCompile.lref
+C:\Users\Vlad\Desktop\Шаг\Мережеве програмування\TikTakToe\TikTakToe\obj\Debug\MainWindow.baml
+C:\Users\Vlad\Desktop\Шаг\Мережеве програмування\TikTakToe\TikTakToe\obj\Debug\TikTakToe.g.resources
+C:\Users\Vlad\Desktop\Шаг\Мережеве програмування\TikTakToe\TikTakToe\obj\Debug\TikTakToe.Properties.Resources.resources
+C:\Users\Vlad\Desktop\Шаг\Мережеве програмування\TikTakToe\TikTakToe\obj\Debug\TikTakToe.csproj.GenerateResource.Cache
+C:\Users\Vlad\Desktop\Шаг\Мережеве програмування\TikTakToe\TikTakToe\obj\Debug\TikTakToe.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\Шаг\Мережеве програмування\TikTakToe\TikTakToe\obj\Debug\TikTakToe.exe
+C:\Users\Vlad\Desktop\Шаг\Мережеве програмування\TikTakToe\TikTakToe\obj\Debug\TikTakToe.pdb

@@ -1,0 +1,7 @@
+C:\Users\Vlad\Desktop\Шаг\Мережеве програмування\TikTakToe\Server\bin\Debug\Server.exe.config
+C:\Users\Vlad\Desktop\Шаг\Мережеве програмування\TikTakToe\Server\bin\Debug\Server.exe
+C:\Users\Vlad\Desktop\Шаг\Мережеве програмування\TikTakToe\Server\bin\Debug\Server.pdb
+C:\Users\Vlad\Desktop\Шаг\Мережеве програмування\TikTakToe\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\Шаг\Мережеве програмування\TikTakToe\Server\obj\Debug\Server.exe
+C:\Users\Vlad\Desktop\Шаг\Мережеве програмування\TikTakToe\Server\obj\Debug\Server.pdb
+C:\Users\Vlad\Desktop\Шаг\Мережеве програмування\TikTakToe\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
